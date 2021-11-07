@@ -1,5 +1,9 @@
 👋 Olá, sou @ kynsh
-👀 Estou interessado em aprender constantemente e sempre melhorar!
-🌱 Atualmente estou aprendendo a programar!
-💞️ Estou procurando colaborar em projetos.
-📫 Como chegar até mim ...
+
+👀 Estou interessado em programação e criação de softwares/hardwares
+
+🌱 Atualmente estou aprendendo conceitos de back-end
+
+💞️ Estou procurando colaborar na criação de projetos
+
+📫 Como chegar até mim: feliphsantoos@gmail.com
