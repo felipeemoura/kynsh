@@ -1,4 +1,4 @@
-👋 Olá, sou @ kynsh
+👋 Olá, sou @ Felipe
 
 👀 Estou interessado em programação e criação de softwares e hardwares
 
